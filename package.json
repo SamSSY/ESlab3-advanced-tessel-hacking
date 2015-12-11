@@ -1,0 +1,19 @@
+{
+  "name": "eslab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seven-segment-display.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSSY/ESlab3-advanced-tessel-hacking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamSSY/ESlab3-advanced-tessel-hacking/issues"
+  },
+  "homepage": "https://github.com/SamSSY/ESlab3-advanced-tessel-hacking#readme"
+}
